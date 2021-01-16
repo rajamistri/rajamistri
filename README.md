@@ -55,5 +55,5 @@ religion = "🇮🇳"
 
 ### Stats ⚡️
 
-![Github Stats](https://readmestats.vercel.app/api?username=cyberboysumanjay&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Github Stats](https://readmestats.vercel.app/api?username=arupmandal&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
  

@@ -1,6 +1,6 @@
-### Hi there <img src="https://github.com/arupmandal/arupmandal/blob/master/assets/Hi.gif" width="29px">
+### Hi there <img src="https://github.com/arupmandal/arupmandal/assets/Hi.gif" width="29px">
 
-- 🔭 I’m currently working on to complete My 12th Boards
+- 🔭 I’m currently working on to complete My Diploma 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with My Projects
@@ -10,7 +10,7 @@
 
 ### Known Languages and Tools
 
-<img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
+<img align="right" src="https://github.com/arupmandal/arupmandal/assets/Developer.gif"/>
 
 
 ![CLang](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c)
@@ -32,19 +32,19 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 <br/><br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gowtham2003&show_icons=true&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arupmandal&show_icons=true&count_private=true&include_all_commits=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham2003)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arupmandal)
 
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" /></h3>
-  <a href="https://twitter.com/gowtham13082003">
-    <img align="center" alt="Gowtham Twitter" height="24" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/arupmandal/arupmandal/assets/Handshake.gif" height="33px" /></h3>
+  <a href="https://twitter.com/iamarupmandal">
+    <img align="center" alt="arupmandal Twitter" height="24" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://telegram.dog/Gowtham2003">
-    <img align="center" alt="Gowtham Telegram" height="24" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" />
+  <a href="https://telegram.dog/iamarupmandal">
+    <img align="center" alt="arupmandal Telegram" height="24" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
 
 </p>

@@ -10,7 +10,7 @@
 
 ### Known Languages and Tools
 
-<img align="right" src="https://github.com/arupmandal/arupmandal/assets/Developer.gif"/>
+<img align="right" src="https://github.com/arupmandal/arupmandal/blob/main/assets/Developer.gif"/>
 
 
 ![CLang](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c)
@@ -39,7 +39,7 @@
 
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/arupmandal/arupmandal/assets/Handshake.gif" height="33px" /></h3>
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/arupmandal/arupmandal/assets/blob/main/Handshake.gif" height="33px" /></h3>
   <a href="https://twitter.com/iamarupmandal">
     <img align="center" alt="arupmandal Twitter" height="24" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>

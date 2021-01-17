@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/arupmandal/arupmandal/assets/Hi.gif" width="29px">
+### Hi there <img src="https://github.com/arupmandal/arupmandal/blob/main/assets/Hi.gif" width="29px">
 
 - 🔭 I’m currently working on to complete My Diploma 
 - 🌱 I’m currently learning Web Development

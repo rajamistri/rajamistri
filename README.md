@@ -1,19 +1,18 @@
-Hi 👋 My name is Arup Mandal
+Hi 👋 My name is Raja Mistri
 ============================
 
 Diploma In Computer Science And Technology.
 -------------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://arupmandal.me/)
-* ✉️  You can contact me at [hello@arupmandal.me](mailto:hello@arupmandal.me)
-* 🚀  I'm currently working on [Portfolio](http://arupmandal.me/)
+* 🖥️  See my portfolio at [MyPortfolio](http://rajamistri.me/)
+* ✉️  You can contact me at [raja333mistri@gmail.com](mailto:raja333mistri@gmail.com)
+* 🚀  I'm currently working on [Portfolio](http://rajamistri.me/)
 * 🧠  I'm learning Full Stack Web Develope
 * 🤝  I'm open to collaborating on Text-To-Speach
 
-<a href="https://www.twitter.com/iamarupmandal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iamarupmandal?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/arupmandal" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.github.com/rajamistri" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arupmandal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
@@ -48,10 +47,10 @@ src="https://img.shields.io/github/followers/arupmandal?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/arupmandal"><img src="https://github-readme-stats.vercel.app/api?username=arupmandal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arupmandal's GitHub stats" /></a>
+<a href="http://www.github.com/rajamistri"><img src="https://github-readme-stats.vercel.app/api?username=arupmandal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arupmandal's GitHub stats" /></a>
 
-<a href="http://www.github.com/arupmandal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arupmandal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/rajamistri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arupmandal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/arupmandal"><img src="https://activity-graph.herokuapp.com/graph?username=arupmandal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/rajamistri"><img src="https://activity-graph.herokuapp.com/graph?username=arupmandal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/arupmandal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arupmandal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/rajamistri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arupmandal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

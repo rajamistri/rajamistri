@@ -5,9 +5,9 @@ Diploma In Computer Science And Technology.
 -------------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio]([http://rajamistri.me/](https://rajamistri.github.io/))
+* 🖥️  See my portfolio at [MyPortfolio]((https://rajamistri.github.io/))
 * ✉️  You can contact me at [raja333mistri@gmail.com](mailto:raja333mistri@gmail.com)
-* 🚀  I'm currently working on [Portfolio]("[http://rajamistri.me/](https://rajamistri.github.io/"))
+* 🚀  I'm currently working on [Portfolio]((https://rajamistri.github.io/))
 * 🧠  I'm learning Full Stack Web Develope
 * 🤝  I'm open to collaborating on Text-To-Speach
 
